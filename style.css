@@ -501,9 +501,6 @@ color: #1B1A1A;
 
 /* team-section starts */
 
-.team-section{
-   
-}
 .team-section__container{
     width: 1168px;
     display: flex;
@@ -557,7 +554,6 @@ row-gap: 36px;
 
 .fit-section{
     width: 100%;
-    max-width: 1440px;
     height: 314px;
   display: flex;
      justify-content: center;
